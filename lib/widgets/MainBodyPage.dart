@@ -333,7 +333,7 @@ class _MainBodyState extends State<MainBody> {
                       color: const Color(0xff4867BA),
                       boxShadow: [
                         BoxShadow(
-                          color: const Color(0xff4867BA).withOpacity(0.5),
+                          color: const Color(0xff234805).withOpacity(0.5),
                           spreadRadius: 7,
                           blurRadius: 80,
                           offset: const Offset(0, 3),
